@@ -14,8 +14,8 @@ body{
 }
 #game{
     position:relative;
-    width:319px;
-    height:375px;
+     width:500px;
+    height:400px;
     overflow:hidden;
     margin:40px auto 0;
     background-position:0px 0px;
