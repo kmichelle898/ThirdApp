@@ -102,26 +102,17 @@ body{
 
 
 </style>
-<script type = "text/javascript">
-function onLoad()
-        {
-              document.addEventListener("deviceready", onDeviceReady, true);
-        }
-function closeWin() {
-    Window.close();
-	navigator.app.exit()
-}
-</script>
+
 </head>
 
-<body onload = "onLoad();">
+<body>
 
 <div id="allthethings">
  
 	<a href = "game.html"><div id="single"><p>PLAY</p></div></a>
   <a href = "instructions.html"><div id="single"><p>Instructions</p></div></a>
   <a href = "about.html"><div id="single"><p>ABOUT US</p></div></a>
-  <a href = "" onClick = "closeWin();"><div id="single"><p>EXIT</p></div></a>
+  <a href = "" onClick = "self.Close();"><div id="single"><p>EXIT</p></div></a>
 
   
   <div id="exit"></div>
