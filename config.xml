@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id = "com.phonegap.api-request"
+	version = "1.0.0">
+	<name>My Game App</name>
+	<preference name = "Fullscreen" value="true" />
+	<description> This application is my First Game Application</description>
+	<icon src="images/logo.jpg"/>
+</widget>
