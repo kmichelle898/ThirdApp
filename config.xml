@@ -6,5 +6,5 @@
 	<name>My Game App</name>
 	<preference name = "Fullscreen" value="true" />
 	<description> This application is my First Game Application</description>
-	<icon src="images/logo.jpg"/>
+	<icon src="Images/logo.jpg"/>
 </widget>
